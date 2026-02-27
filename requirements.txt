@@ -1,0 +1,6 @@
+python 3.10.12
+java 8 
+hadoop 3.3.6
+Apache Spark 3.3.2
+Jupyter Notebook
+Virtual Environment
