@@ -1,0 +1,20 @@
+# Virtual Environments
+pyspark_env/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+
+# Hadoop output folders
+output/
+tmp/
+
+# Logs
+*.log
+logs/
+
+# Data Files 
+*.csv
+*.parquet
